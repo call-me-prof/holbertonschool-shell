@@ -1,1 +1,1 @@
-My shell permissions project
+Project about shell permissions
