@@ -1,1 +1,1 @@
-My first shell project
+This is the README for the shell permissions project
