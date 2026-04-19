@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n "2p" iacta
+head -n 2 iacta | tail -n 1
